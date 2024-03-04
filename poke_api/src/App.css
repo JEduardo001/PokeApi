@@ -1,0 +1,39 @@
+body {
+  background-color: #8f7c7c; 
+ 
+}
+
+.App {
+  text-align: center;
+}
+
+#imgLogo{
+  width: 110px;
+  margin-left: 50px;
+  margin-right: 10px;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+#containerPokemon {
+  background-color: #61dafb;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
